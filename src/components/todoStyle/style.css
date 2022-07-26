@@ -1,0 +1,50 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background: #ffffff;
+    /* fallback for old browsers */
+    color: #000000a6;
+    font-family: "Roboto", sans-serif;
+    /* border: 2px solid black; */
+}
+
+input {
+    background: border-box;
+    color: #ffffffa6;
+    border-top: none;
+    width: 80%;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    color: rgb(32, 30, 30);
+}
+
+button {
+    background: content-box;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    border-radius: 10px;
+    width: auto;
+    height: 40px;
+}
+
+.inputField {
+    width: "100%";
+    border: 2px solid black;
+}
+
+
+.mainContent {
+    border: 2px solid rgb(122, 120, 120);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
